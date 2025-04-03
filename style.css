@@ -23,3 +23,7 @@ nav h1 {
 .filter-buttons {
   margin-top: 1rem;
 }
+
+.filter-buttons button {
+  background-color: #555;
+}
