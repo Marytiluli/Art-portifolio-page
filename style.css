@@ -27,4 +27,5 @@ nav h1 {
 .filter-buttons button {
   background-color: #555;
   color: #fff;
+  border: none;
 }
