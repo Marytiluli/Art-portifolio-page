@@ -49,3 +49,7 @@ nav h1 {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1rem;
 }
+
+.artwork-grid img {
+  width: 100%;
+}
