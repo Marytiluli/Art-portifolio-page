@@ -62,4 +62,5 @@ nav h1 {
 
 .artwork-grid img:hover {
   transform: scale(1.05);
+  border-color: #333;
 }
