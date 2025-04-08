@@ -81,3 +81,7 @@ nav h1 {
   transition: visibility 0s, opacity 0.5s;
   overflow: auto;
 }
+
+.lightbox-content {
+  display: flex;
+}
