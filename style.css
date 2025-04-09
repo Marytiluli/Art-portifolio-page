@@ -100,3 +100,8 @@ nav h1 {
 }
 
 /* Close Button for Lightbox */
+.close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
