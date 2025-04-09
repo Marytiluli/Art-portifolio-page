@@ -96,4 +96,5 @@ nav h1 {
 
 #lightbox.visible {
   visibility: visible;
+  opacity: 1;
 }
