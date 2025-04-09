@@ -88,3 +88,7 @@ nav h1 {
     align-items: center;
     min-height: 100%;
 }
+
+#lightbox img {
+  max-width: 90%;
+}
