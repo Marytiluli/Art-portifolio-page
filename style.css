@@ -93,3 +93,7 @@ nav h1 {
   max-width: 90%;
   max-height: 90%;
 }
+
+#lightbox.visible {
+  visibility: visible;
+}
