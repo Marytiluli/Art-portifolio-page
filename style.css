@@ -121,3 +121,7 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
+footer a {
+  color: #fff;
+}
