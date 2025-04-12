@@ -1,0 +1,1 @@
+// Opens the lightbox and displays the clicked image
