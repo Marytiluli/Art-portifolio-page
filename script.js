@@ -13,3 +13,6 @@ function closeLightbox() {
 }
 
 // Filters the gallery based on selected category
+function filterGallery(category) {
+    const artworks = document.querySelectorAll('.art');
+}
