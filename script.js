@@ -11,3 +11,5 @@ function closeLightbox() {
     const lightbox = document.getElementById('lightbox');
     lightbox.classList.remove('visible');
 }
+
+// Filters the gallery based on selected category
