@@ -9,4 +9,5 @@ function openLightbox(element) {
 // Closes the lightbox
 function closeLightbox() {
     const lightbox = document.getElementById('lightbox');
+    lightbox.classList.remove('visible');
 }
