@@ -5,3 +5,5 @@ function openLightbox(element) {
     lightboxImg.src = element.src;
     lightbox.classList.add('visible');
 }
+
+// Closes the lightbox
