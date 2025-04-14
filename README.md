@@ -12,3 +12,30 @@ Welcome to my art portfolio! This project showcases a variety of my artworks, in
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
+
+## Features
+
+- **Gallery View**: Displays artworks in a grid layout.
+- **Filter Buttons**: Allows users to filter artworks by category (All, Portraits, Landscapes).
+- **Lightbox Modal**: Click on an artwork to view it in a larger size in a lightbox modal.
+- **Responsive Design**: The layout adjusts to different screen sizes for a better user experience.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Marytiluli/Art-portifolio-page
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd art-portfolio
+    ```
+3. Open `index.html` in your web browser to view the portfolio.
