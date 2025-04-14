@@ -49,3 +49,11 @@ To run this project locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+© 2025 My Art Portfolio | Designed and developed by [Mary Tiluli]
