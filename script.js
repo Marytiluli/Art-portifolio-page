@@ -17,4 +17,8 @@ function filterGallery(category) {
     const artworks = document.querySelectorAll('.art');
 
     // Loops through each artwork element
+    artworks.forEach(art => {
+        if (category === 'all' || art.classList.contains(category)) {
+            art.style.display = 'block';
+        } 
 }
