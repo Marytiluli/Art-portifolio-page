@@ -20,5 +20,8 @@ function filterGallery(category) {
     artworks.forEach(art => {
         if (category === 'all' || art.classList.contains(category)) {
             art.style.display = 'block';
-        } 
+        } else {
+            art.style.display = 'none';
+        }
+    });
 }
