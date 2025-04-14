@@ -39,3 +39,13 @@ To run this project locally, follow these steps:
     cd art-portfolio
     ```
 3. Open `index.html` in your web browser to view the portfolio.
+
+## Usage
+
+- **Viewing Artworks**: Browse through the gallery to view different artworks.
+- **Filtering Artworks**: Use the filter buttons to display specific categories of artworks.
+- **Lightbox Modal**: Click on an artwork to view it in a larger size in a lightbox modal. Click the close button or outside the image to close the modal.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
